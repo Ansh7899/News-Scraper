@@ -1,3 +1,4 @@
+#This project was made while learning web-scraping
 import requests
 from bs4 import BeautifulSoup
 import pprint
